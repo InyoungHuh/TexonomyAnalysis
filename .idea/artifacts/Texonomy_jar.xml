@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Texonomy:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Texonomy_jar</output-path>
+    <root id="archive" name="Texonomy.jar">
+      <element id="module-output" name="Texonomy" />
+    </root>
+  </artifact>
+</component>
