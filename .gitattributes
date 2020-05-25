@@ -1,2 +1,4 @@
 out/production/Texonomy/resource/nodes.dmp filter=lfs diff=lfs merge=lfs -text
 out/production/Texonomy/resource/names.dmp filter=lfs diff=lfs merge=lfs -text
+src/resource/nodes.dmp filter=lfs diff=lfs merge=lfs -text
+src/resource/names.dmp filter=lfs diff=lfs merge=lfs -text
